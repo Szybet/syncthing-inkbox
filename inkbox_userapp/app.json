@@ -1,0 +1,13 @@
+{
+  "app": {
+    "Author": "Szybet",
+    "AuthorContact": "https://github.com/Szybet/syncthing-inkbox",
+    "Enabled": true,
+    "ExecPath": "/app-bin/syncthing-qt.sh",
+    "IconPath": "/app-misc/syncthing.png",
+    "Name": "syncthing",
+    "SupportedDevices": [ "all" ],
+    "RequiredFeatures": [ 0, 7 ] ,
+    "Version": "0.1"
+  }
+}

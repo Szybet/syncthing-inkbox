@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>confirm.svg</file>
+        <file>close.png</file>
+        <file>eink.qss</file>
+        <file>info.svg</file>
+        <file>eink/radioButtonUnchecked.svg</file>
+        <file>eink/radioButtonChecked.svg</file>
+        <file>eink/up-arrow-pressed.png</file>
+        <file>eink/down-arrow-pressed.png</file>
+        <file>eink/checkbox-x.png</file>
+        <file>eink/checkbox-x-small.png</file>
+        <file>eink/checkbox-unchecked.png</file>
+        <file>eink/checkbox-unchecked-small.png</file>
+        <file>eink/checkbox-indeterminate.png</file>
+        <file>eink/checkbox-checked.png</file>
+        <file>eink/checkbox-checked-small.png</file>
+        <file>eink/down-arrow.png</file>
+        <file>eink/up-arrow.png</file>
+        <file>refresh.svg</file>
+    </qresource>
+</RCC>
